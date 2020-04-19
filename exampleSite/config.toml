@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://loving-davinci-59cd94.netlify.app/"
 title = "Nederburg"
 theme = "hugo-nederburg-theme"
 languageCode = "en-us"
